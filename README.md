@@ -37,10 +37,10 @@ Built an end-to-end data pipeline and ML system on real campus water data:
 
 ## Skills
 
-Languages:   Python
-Libraries:   pandas, numpy, scikit-learn, matplotlib, os, glob, shutil, datetime
-Tools:       JupyterLab, Anaconda, Git, GitHub, Excel, Wireshark
-Networking:  TCP/IP, HTTP/S, DNS, DHCP, SSL/TLS
+**Languages:** Python  
+**Libraries:** pandas, numpy, scikit-learn, matplotlib, os, glob, shutil, datetime  
+**Tools:** JupyterLab, Anaconda, Git, GitHub, Excel, Wireshark  
+**Networking:** TCP/IP, HTTP/S, DNS, DHCP, SSL/TLS
 
 ---
 
