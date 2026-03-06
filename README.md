@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a Computer Systems Engineering graduate and Master's researcher at the **Central University of Technology, Bloemfontein**, where I'm where I'm building an AI-powered **Indoor Air Quality (IAQ) monitoring system** for a mechanical engineering lab on campus.
+I'm a Computer Systems Engineering graduate and Master's researcher at the **Central University of Technology, Bloemfontein**, where where I'm building an AI-powered **Indoor Air Quality (IAQ) monitoring system** for a mechanical engineering lab on campus.
 My work combines data analysis and machine learning. I enjoy taking messy, real-world data and turning it into something that actually tells you something useful.
 
 ---
