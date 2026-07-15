@@ -1,55 +1,50 @@
 # Hi, I'm Monica Tenene 👋
 
-**Data & Research Analyst | Computer Systems Engineer**  
-📍 Lesotho / South Africa | 📧 tenenemonica@gmail.com
+**Data & Research Analyst | Computer Systems Engineer**
 
----
+📍 Lesotho / South Africa
+📧 [tenenemonica@gmail.com](mailto:tenenemonica@gmail.com)
 
 ## About Me
 
-I'm a Computer Systems Engineering graduate and Master's researcher at the **Central University of Technology, Bloemfontein**, where I'm building an AI-powered **Indoor Air Quality (IAQ) monitoring system** for a mechanical engineering lab on campus.
-My work combines data analysis and machine learning. I enjoy taking messy, real-world data and turning it into something that actually tells you something useful.
-
----
+I'm a Computer Systems Engineering graduate. My Master's application at the Central University of Technology, Bloemfontein has been accepted, and I'm currently preparing my research proposal on an AI-assisted Indoor Air Quality (IAQ) monitoring system for a mechanical engineering laboratory.
 
 ## What I'm Working On
 
-- 🔬 **Master's Research** — AI-driven IAQ monitoring system: detecting air quality spikes and generating automated safety alerts for lab workers
-- 📊 Improving my Python ML pipeline skills (scikit-learn, time-series modelling)
+🔬 Master's research – AI-assisted Indoor Air Quality (IAQ) monitoring system for a mechanical engineering laboratory
 
----
+📊 Improving my Python, machine learning, and data analysis skills using scikit-learn
 
 ## Featured Project
 
 ### 💧 Campus Water Infrastructure: Predictive Modelling & Sensor Health
 
-Built an end-to-end data pipeline and ML system on real campus water data:
+Built an end-to-end Python data pipeline and machine learning system using real campus water data.
 
-- Merged **940 CSV files** (545 volume + 395 pressure) from 13 campus meter points
-- Engineered lag, rolling average, and time features for time-series forecasting
-- Trained **two Random Forest Regressors** to predict next-day water volume and pressure
-- Built a **sensor health diagnostic system** — automatically classifying meters as Active, Partially Active, or Dead
-- Pressure model achieved **MAE of 4.41**
+* Merged 940 CSV files (545 volume and 395 pressure) into a single dataset for analysis.
+* Created time, lag, and rolling average features for machine learning.
+* Trained two Random Forest regression models to predict the next day's water volume and water pressure.
+* Built a sensor health diagnostic system that automatically classifies meters as Active, Partially Active, or Inactive.
+* Achieved a Mean Absolute Error (MAE) of 4.41 for the pressure prediction model.
 
-**Stack:** Python · pandas · scikit-learn · matplotlib · JupyterLab · numpy
-
----
+**Stack:** Python · pandas · NumPy · scikit-learn · matplotlib · JupyterLab
 
 ## Skills
 
-**Languages:** Python  
-**Libraries:** pandas, numpy, scikit-learn, matplotlib, os, glob, shutil, datetime  
-**Tools:** JupyterLab, Anaconda, Git, GitHub, Excel, Wireshark  
-**Networking:** TCP/IP, HTTP/S, DNS, DHCP, SSL/TLS
+**Language:** Python
 
----
+**Libraries:** pandas, NumPy, scikit-learn, matplotlib, os, glob, shutil, datetime
+
+**Tools:** JupyterLab, Anaconda, Git, GitHub, Excel, Wireshark
+
+**Networking:** TCP/IP, HTTP/S, DNS, DHCP, SSL/TLS
 
 ## Certifications
 
-- Cisco Introduction to Cybersecurity (2025)
-- CWW Tech Africa Cybersecurity (2024)
-- SimpliLearn CCNA 200-301 (2024)
+* Cisco Introduction to Cybersecurity (2025)
+* CWW Tech Africa Cybersecurity (2024)
+* SimpliLearn CCNA 200-301 (2024)
 
----
+## Open To
 
-*Open to junior data analyst, research assistant, and engineering roles globally.*
+Junior Data Analyst, Research Assistant, and Engineering roles worldwide.
