@@ -11,7 +11,7 @@ I'm a Computer Systems Engineering graduate. My Master's application at the Cent
 
 ## What I'm Working On
 
-🔬 Master's research – AI-assisted Indoor Air Quality (IAQ) monitoring system for a mechanical engineering laboratory
+🔬 Preparing my Master's research proposal on an AI-assisted Indoor Air Quality (IAQ) monitoring system for a mechanical engineering laboratory.
 
 📊 Improving my Python, machine learning, and data analysis skills using scikit-learn
 
@@ -25,7 +25,7 @@ Built an end-to-end Python data pipeline and machine learning system using real 
 * Created time, lag, and rolling average features for machine learning.
 * Trained two Random Forest regression models to predict the next day's water volume and water pressure.
 * Built a sensor health diagnostic system that automatically classifies meters as Active, Partially Active, or Inactive.
-* Achieved a Mean Absolute Error (MAE) of 4.41 for the pressure prediction model.
+* Achieved a Mean Absolute Error (MAE) of 4.41 when predicting daily water pressure.
 
 **Stack:** Python · pandas · NumPy · scikit-learn · matplotlib · JupyterLab
 
@@ -47,4 +47,4 @@ Built an end-to-end Python data pipeline and machine learning system using real 
 
 ## Open To
 
-Junior Data Analyst, Research Assistant, and Engineering roles worldwide.
+Data Analyst, Research Assistant, and Engineering roles worldwide.
